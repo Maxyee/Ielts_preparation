@@ -1,40 +1,44 @@
-Word
-Agreeable
-Synonyms:
-pleasant
-Meaning:
-willing to agree to something
-Example:
-they were agreeable to its publication
-------------------------------------------------------------------
+###### Word
+- Agreeable
+###### Synonyms
+- pleasant
+###### Meaning:
+- willing to agree to something
+###### Example:
+- they were agreeable to its publication
 
-Word
+~~------------------------------------------------------------------~~
+
+###### Word
 Stumbling
-Synonyms:
+###### Synonyms:
 peck
 nibbling
 pecking
 reprimand
-Meaning:
+###### Meaning:
 হুমড়ি
-------------------------------------------------------------------
 
-Word
+~~------------------------------------------------------------------~~
+
+###### Word
 devotion
-Synonyms:
+###### Synonyms:
 piety
 worship
 adoration
-Meaning:
-ভক্তি
-------------------------------------------------------------------
+###### Meaning:
+- ভক্তি
 
-Word
+~~------------------------------------------------------------------~~
+
+###### Word
 eminent
-Synonyms:
+###### Synonyms:
 prominent
 distinguished
 noted
-Meaning:
-বিশিষ্ট
-------------------------------------------------------------------
+###### Meaning:
+- বিশিষ্ট
+
+~~------------------------------------------------------------------~~
