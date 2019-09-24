@@ -10,34 +10,34 @@
 ~~------------------------------------------------------------------~~
 
 ###### Word
-Stumbling
+- Stumbling
 ###### Synonyms:
-peck
-nibbling
-pecking
-reprimand
+- peck
+- nibbling
+- pecking
+- reprimand
 ###### Meaning:
-হুমড়ি
+- হুমড়ি
 
 ~~------------------------------------------------------------------~~
 
 ###### Word
-devotion
+- devotion
 ###### Synonyms:
-piety
-worship
-adoration
+- piety
+- worship
+- adoration
 ###### Meaning:
 - ভক্তি
 
 ~~------------------------------------------------------------------~~
 
 ###### Word
-eminent
+- eminent
 ###### Synonyms:
-prominent
-distinguished
-noted
+- prominent
+- distinguished
+- noted
 ###### Meaning:
 - বিশিষ্ট
 
