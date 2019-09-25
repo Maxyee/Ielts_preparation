@@ -59,3 +59,44 @@
 
 *There are four different math courses you may select from in your first year.*
 
+11. theory
+
+**an idea or belief about how something works**
+
+*There are many theories about why we dream.*
+
+12. instance
+
+**noun: an example, a case**
+
+*Two animals in Australia (platypuses and echidnas) are the only instance of animals with hair that lay eggs*
+
+13. register
+
+**verb: to put your name or other information in a list for something**
+
+*if you would like to buy a meal plan, you can register at the student affairs office*
+
+14. require
+
+**verb: to need for a specific purpose; to set as the minimum**
+
+*All life,plants and animals included, requires water*
+
+15. feature
+
+**noun: an important characteristic, a property**
+
+*The sound made by "r" in one of the most difficult features of spoken english*
+
+16. consume
+
+**verb: to eat**
+
+*Yeast, which is used to make beer, consumes sugars to create alcohol*
+
+17. trend
+
+**verb: the direction of way in which something is changing**
+
+*Today's coumputer culture is trending toward more touch-screen technology*
