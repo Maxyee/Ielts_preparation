@@ -100,3 +100,51 @@
 **verb: the direction of way in which something is changing**
 
 *Today's coumputer culture is trending toward more touch-screen technology*
+
+18. instance
+
+**noun: an example, a case**
+
+*Two animals in Australia (platypuses and echidnas) are the only instance of animals with hair that lay eggs*
+
+19. investigate
+
+**verb: to try to find answers to questions about something; to reach**
+
+*Doctors are investigating a newly discovered plant that might help to fight cancer*
+
+20. illustrate
+
+**verb: to explain with an example or picture**
+
+*Peter illustrated his point by telling a short story*
+
+21. significant
+
+**verb: important or big enough that you should notice or pay attention**
+
+*Most animals spend a significant amount of their time looking for food*
+
+22. overall
+
+**adjective: looking at or including all pieces or factors**
+
+*Some words might be new and difficult, but the overall meaning of the sentence is clear*
+
+23. contrast
+
+**verb: to be clearly different from**
+
+*The zebra's black and white stripes contrast clearly with the yellow grass around it*
+
+24. modify
+
+**verb: to make small changes or add to**
+
+*The first bicycles were slow and difficult to use, but they were modified over time*
+
+25. adequate
+
+**adjective: good enough for what is needed**
+
+*A very light jacket will be adequate for Los Angeles's warm winter*
