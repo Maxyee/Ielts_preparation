@@ -148,3 +148,45 @@
 **adjective: good enough for what is needed**
 
 *A very light jacket will be adequate for Los Angeles's warm winter*
+
+26. sufficient
+
+**adjective: enough in amount for what is needed**
+
+*Because of weather changes, farms couldn't grow sufficient rice to feed the country last year.*
+
+27. data
+
+**noun: information, fact**
+
+* We collect data on the oceans temperatures every year.*
+
+28. fundamental
+
+**adjective: basic, central**
+
+*Alice believes that women are fundamentally different from men.*
+
+29. lecture
+
+**noun: a long speech about one topic that teaches (especially in a classrooom)**
+
+*Professor Jackson's lecture are too long, I always fall asleep.*
+
+30. issue
+
+**noun: a topic or situation to talk about**
+
+*In order to define what jazz music is, we need to look at a few different issues.*
+
+31. establish
+
+**verb: to build, to create(a system, organization, or idea)**
+
+*The U.S. government was established in the late 1700s*
+
+32. capable
+
+**adjective: able to do**
+
+*Near the age of twelve months, children are capable of walking*
