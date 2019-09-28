@@ -190,3 +190,51 @@
 **adjective: able to do**
 
 *Near the age of twelve months, children are capable of walking*
+
+33. method
+
+**noun: how to do something, a process**
+
+*The Spanish method of making chocolate created a completely new drink*
+
+34. identify
+
+**verb: to name, to show or figure out what something is**
+
+*Scientists have not been able to identify the language written on the rocks*
+
+35. analyze
+
+**verb: to try to understand something better by closely looking at its details**
+
+*The accountant was too busy with paperwork to analyze the report that said the company had no money*
+
+36. function
+
+**verb: to work; to do what something should do**
+
+*I dropped my phone into a swimming pool but it still functions, amazingly*
+
+37. project
+
+**noun: a plan or task to reach a specific goal**
+
+*Cleaning out the storage room was a big project, but its nice to see it empty, now*
+
+38. stress
+
+**verb: to place extra important on one part**
+
+*If you stress the wrong words or sounds when speaking english, you may not be understood*
+
+39. concept
+
+**noun: an abstract idea**
+
+*Some concepts within advanced mathmatics are hard to show in the real world*
+
+40. indicate
+
+**verb: to be sign of, to show**
+
+*The way you speak and act indicates your emotions*
