@@ -1,44 +1,12 @@
-###### Word
-- Agreeable
-###### Synonyms
-- pleasant
-###### Meaning:
-- willing to agree to something
-###### Example:
-- they were agreeable to its publication
+# Whatsapp-clone
 
-~~------------------------------------------------------------------~~
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-###### Word
-- Stumbling
-###### Synonyms:
-- peck
-- nibbling
-- pecking
-- reprimand
-###### Meaning:
-- হুমড়ি
+## Available Scripts
 
-~~------------------------------------------------------------------~~
+In the project directory, you can run:
 
-###### Word
-- devotion
-###### Synonyms:
-- piety
-- worship
-- adoration
-###### Meaning:
-- ভক্তি
+### `yarn start`
 
-~~------------------------------------------------------------------~~
-
-###### Word
-- eminent
-###### Synonyms:
-- prominent
-- distinguished
-- noted
-###### Meaning:
-- বিশিষ্ট
-
-~~------------------------------------------------------------------~~
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
