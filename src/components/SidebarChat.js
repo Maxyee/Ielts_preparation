@@ -21,7 +21,7 @@ function SidebarChat({ id, name, addNewChat }) {
                     ))
                 ))
         }
-    }, [])
+    }, [id])
 
 
     useEffect(() => {
