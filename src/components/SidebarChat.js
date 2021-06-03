@@ -3,9 +3,11 @@ import '../styles/SidebarChat.css'
 import { Avatar } from '@material-ui/core'
 import db from '../firebase/firebase'
 import { Link } from 'react-router-dom'
+import { useStateValue } from '../redux/store/StateProvider'
 
 function SidebarChat({ id, name, addNewChat }) {
     const [seed, setSeed] = useState('')
+    const [{ user }, dispatch] = useStateValue()
 
     useEffect(() => {
         setSeed(Math.floor(Math.random() * 5000))
